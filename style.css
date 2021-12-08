@@ -1,0 +1,26 @@
+.container {
+    text-align: center;
+    margin-top: 200px;
+    
+    
+}
+#clock div {
+    display: block;
+    color:white;
+    font-family: 'Emilys Candy', cursive;
+    font-size: 80px;
+    font-weight: 400;
+    
+}
+#clock span {
+    display: block;
+    color: darkorange;
+    font-family: 'Charm', cursive;
+    font-size: 60px;
+    margin-left: 2em;
+}
+body {
+    background-color:black;
+    background-image: url(https://i.pinimg.com/originals/bc/5c/fe/bc5cfeaf98d8c9ea579a811db2db5bd7.gif);
+    
+}
